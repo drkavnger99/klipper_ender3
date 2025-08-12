@@ -1,9 +1,17 @@
 .env
 secrets.conf
 *.swp
+
+*.swp
+*.tmp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
+printer-[0-9]*_[0-9]*.cfg
+*.bak
 *.bak
 *.bkp
+*.bkp
 *.csv
+*.csv
+G0B1_U2C_V2.zip
 G0B1_U2C_V2.zip
